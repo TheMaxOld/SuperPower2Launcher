@@ -1,0 +1,21 @@
+C:\Users\User\source\repos\SuperPower Launcher\SuperPower Launcher\bin\Debug\SuperPower Launcher.exe.config
+C:\Users\User\source\repos\SuperPower Launcher\SuperPower Launcher\bin\Debug\SuperPower Launcher.exe
+C:\Users\User\source\repos\SuperPower Launcher\SuperPower Launcher\bin\Debug\SuperPower Launcher.pdb
+C:\Users\User\source\repos\SuperPower Launcher\SuperPower Launcher\obj\Debug\SuperPower Launcher.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SuperPower Launcher\SuperPower Launcher\obj\Debug\SuperPower Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\SuperPower Launcher\SuperPower Launcher\obj\Debug\SuperPower_Launcher.Properties.Resources.resources
+C:\Users\User\source\repos\SuperPower Launcher\SuperPower Launcher\obj\Debug\SuperPower Launcher.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SuperPower Launcher\SuperPower Launcher\obj\Debug\SuperPower Launcher.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SuperPower Launcher\SuperPower Launcher\obj\Debug\SuperPower Launcher.exe
+C:\Users\User\source\repos\SuperPower Launcher\SuperPower Launcher\obj\Debug\SuperPower Launcher.pdb
+C:\Users\User\source\repos\SuperPower Launcher\SuperPower Launcher\obj\Debug\SuperPower_Launcher.Form1.resources
+C:\Users\User\source\repos\SuperPower Launcher\SuperPower Launcher\obj\Debug\SuperPower_Launcher.Form2.resources
+C:\Users\User\source\repos\SuperPower Launcher\SuperPower Launcher\obj\Debug\SuperPower_Launcher.Form3.resources
+C:\Users\User\source\repos\SuperPower Launcher\SuperPower Launcher\obj\Debug\SuperPower_Launcher.Form4.resources
+C:\Users\User\source\repos\SuperPower Launcher\SuperPower Launcher\obj\Debug\SuperPower_Launcher.Form5.resources
+C:\Users\User\source\repos\SuperPower Launcher\SuperPower Launcher\obj\Debug\SuperPower_Launcher.Form6.resources
+C:\Users\User\source\repos\SuperPower Launcher\SuperPower Launcher\obj\Debug\SuperPower_Launcher.Form7.resources
+C:\Users\User\source\repos\SuperPower Launcher\SuperPower Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\SuperPower Launcher\SuperPower Launcher\obj\Debug\SuperPower Launcher.csproj.CopyComplete
+C:\Users\User\source\repos\SuperPower Launcher\SuperPower Launcher\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\source\repos\SuperPower Launcher\SuperPower Launcher\obj\Debug\SuperPower Launcher.csproj.Fody.CopyLocal.cache
